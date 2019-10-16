@@ -80,19 +80,19 @@ li { margin-bottom: 2px; }
 entry1 {
  clear: both;
  height: 110px;
- margin-bottom: 6px;
+ margin-bottom: 10px;
  /*overflow: hidden;*/
 }
 .entry2 {
  clear: both;
- height: 454px;
- margin-bottom: 6px;
+ height: 444px;
+ margin-bottom: 10px;
  /*overflow: hidden;*/
 }
 .entry3 {
  clear: both;
- height: 454px;
- margin-bottom: 6px;
+ height: 444px;
+ margin-bottom: 10px;
  /*overflow: hidden; add 40*/
 }
 .entry img {
